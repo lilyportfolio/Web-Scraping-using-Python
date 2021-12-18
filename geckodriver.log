@@ -1,0 +1,40 @@
+1638743981402	geckodriver	INFO	Listening on 127.0.0.1:54254
+1638743984446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54255" "-no-remote" "-profile" "C:\\Users\\kenny\\AppData\\Local\\Temp\\rust_mozprofileU0Iwg8"
+*** You are running in headless mode.
+1638743984648	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kenny\\AppData\\Local\\Temp\\rust_mozprofileU0Iwg8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54255/devtools/browser/859098c3-6d81-4607-bd42-a09bb7374721
+1638743985568	Marionette	INFO	Listening on port 54260
+1638743985988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1638745129158	Marionette	INFO	Stopped listening on port 54260
+[Parent 36784, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1638745131632	geckodriver	INFO	Listening on 127.0.0.1:55220
+1638745134650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55221" "-no-remote" "-profile" "C:\\Users\\kenny\\AppData\\Local\\Temp\\rust_mozprofileYuj3IB"
+*** You are running in headless mode.
+1638745134855	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kenny\\AppData\\Local\\Temp\\rust_mozprofileYuj3IB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55221/devtools/browser/9a46ce36-4061-4093-b9ab-c3928e846669
+1638745135777	Marionette	INFO	Listening on port 55226
+1638745136178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
+Invalid port. Exiting...
